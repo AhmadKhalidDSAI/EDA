@@ -1,0 +1,10 @@
+apache-airflow-providers-postgres
+apache-airflow-providers-mysql
+apache-airflow-providers-amazon
+apache-airflow-providers-http
+apache-airflow-providers-ssh
+apache-airflow-providers-slack
+apache-airflow
+pyarrow
+psycopg2-binary
+sqlalchemy
